@@ -1,0 +1,1 @@
+# nearbyshops_geodjango_project
