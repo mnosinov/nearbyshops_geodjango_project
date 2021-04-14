@@ -1,0 +1,28 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ALLOWED_HOSTS	nearbyshops_project/settings.py	/^ALLOWED_HOSTS = []$/;"	v
+AUTH_PASSWORD_VALIDATORS	nearbyshops_project/settings.py	/^AUTH_PASSWORD_VALIDATORS = [$/;"	v
+BASE_DIR	nearbyshops_project/settings.py	/^BASE_DIR = Path(__file__).resolve().parent.parent$/;"	v
+DATABASES	nearbyshops_project/settings.py	/^DATABASES = {$/;"	v
+DEBUG	nearbyshops_project/settings.py	/^DEBUG = True$/;"	v
+DEFAULT_AUTO_FIELD	nearbyshops_project/settings.py	/^DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'$/;"	v
+INSTALLED_APPS	nearbyshops_project/settings.py	/^INSTALLED_APPS = [$/;"	v
+LANGUAGE_CODE	nearbyshops_project/settings.py	/^LANGUAGE_CODE = 'en-us'$/;"	v
+MIDDLEWARE	nearbyshops_project/settings.py	/^MIDDLEWARE = [$/;"	v
+ROOT_URLCONF	nearbyshops_project/settings.py	/^ROOT_URLCONF = 'nearbyshops_project.urls'$/;"	v
+SECRET_KEY	nearbyshops_project/settings.py	/^SECRET_KEY = 'django-insecure-@s!2-sjv$0c77t7jaw#z75qit00t&rrvmt7g2jfh0%^-v&i3!w'$/;"	v
+STATIC_URL	nearbyshops_project/settings.py	/^STATIC_URL = '\/static\/'$/;"	v
+TEMPLATES	nearbyshops_project/settings.py	/^TEMPLATES = [$/;"	v
+TIME_ZONE	nearbyshops_project/settings.py	/^TIME_ZONE = 'UTC'$/;"	v
+USE_I18N	nearbyshops_project/settings.py	/^USE_I18N = True$/;"	v
+USE_L10N	nearbyshops_project/settings.py	/^USE_L10N = True$/;"	v
+USE_TZ	nearbyshops_project/settings.py	/^USE_TZ = True$/;"	v
+WSGI_APPLICATION	nearbyshops_project/settings.py	/^WSGI_APPLICATION = 'nearbyshops_project.wsgi.application'$/;"	v
+application	nearbyshops_project/asgi.py	/^application = get_asgi_application()$/;"	v
+application	nearbyshops_project/wsgi.py	/^application = get_wsgi_application()$/;"	v
+main	manage.py	/^def main():$/;"	f
+urlpatterns	nearbyshops_project/urls.py	/^urlpatterns = [$/;"	v
